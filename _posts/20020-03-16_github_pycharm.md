@@ -41,7 +41,7 @@ github에 대한 다양한 기능은 저도 아직 완벽히 익힌것이 아니
 아래의 빨간 박스내에 run과 debug버튼을 제외한 오른쪽 4개가 github의 버튼인데요, 그 중 첫번째가 update버튼 두 번째가 commit, 세 번째가 history를 보는것 그리고 마지막이 revert버튼입니다.
 update는 github에 있는 코드를 로컬 코드와 동기화 하는것이고, commit은 로컬을 github에 올리는 것이며 나머지는 단어 뜻 그대로의 기능입니다.
 아마 소스를 동기화 해본 경험이 없으신 분들은 commit자체로 바로 서버와 동기화 된다고 생각하실 수 있을실 텐데요.
-commit은 제가 github서버에 업데이트 하고 싶은 부분을 설정하고 messagee를 남기는 기능이고 실제로 서버를 업데이트 하려면 push를 하셔야 합니다.
+commit은 제가 github서버에 업데이트 하고 싶은 부분을 설정하고 메시지를 남기는 기능이고 실제로 서버를 업데이트 하려면 push를 하셔야 합니다.
 단축 버튼외의 모든 기능은 상단메뉴의 VCS에 git안에 다 있습니다.
 
 ![Image](../images/pycharm_connectedrep.jpg)
