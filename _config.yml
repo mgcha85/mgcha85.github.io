@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "차민규"
+name                     : "Mingyu Cha"
 description              : "An amazing website."
 url                      : https://mgcha85.github.io
 baseurl                  : ""
